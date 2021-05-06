@@ -1,0 +1,24 @@
+/*弹性布局*/
+.flex{
+	display: flex;
+}
+.flex_between{
+	justify-content: space-between;
+}
+.flex_around{
+	justify-content: space-around;
+}
+.flex_center{
+	justify-content: center;
+}
+.flex-column{
+	flex-direction: column;
+}
+/*居中*/
+.margin_auto{
+	margin: 0 auto;
+}
+/*手型*/
+.pointer{
+	cursor: pointer;
+}
